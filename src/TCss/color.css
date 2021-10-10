@@ -1,0 +1,23 @@
+body{
+    margin-top: 100;
+  
+    width: 1000;
+    
+}
+#thongtin{
+   margin-left: 100px;
+    
+}
+#content{
+    border-style: solid;
+    border-color: red;
+}
+span{
+   padding: 10px 20px;
+  margin: 10px;
+ cursor: pointer;
+}
+.active{
+    border: solid 3px blueviolet;
+}
+
